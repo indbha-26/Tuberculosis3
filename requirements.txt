@@ -1,0 +1,5 @@
+streamlit
+opencv-python-headless
+tensorflow==2.13.1
+keras==2.13.1
+bcrypt
